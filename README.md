@@ -82,4 +82,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## Support
 
-If you have new technical questions & need support, please contact me @inscNix on Telegram.
+If you have new technical questions & need support, please contact me @leionion on Telegram.
